@@ -10,18 +10,19 @@ url:str = 'https://www.apple.com/es/shop/buy-mac/macbook-air'
 
 Path('data').mkdir(exist_ok=True)
 
-response = req.get(url)
 headers = {
     'User-Agent':'Mozilla/5.0 AppleWebKit/537.36 (KHTML,'
     ' like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) '
     'Chrome/140.0.0.0 Safari/537.36'
 }
+response = req.get(url, headers=headers)
+
 
 precios = {}
 
 if response.status_code == 200:
     print('Exitos!!!')
-    soup = BeautifulSoup(response.text, 'html.parser', headers=headers)
+    soup = BeautifulSoup(response.text, 'html.parser')
     tags_title = soup.title
     # Buscar precio
     price = soup.find_all('span', class_='rc-prices-fullprice')
