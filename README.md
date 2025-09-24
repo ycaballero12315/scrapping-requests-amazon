@@ -55,5 +55,5 @@ Puedes hacer Fork o clonar el proyecto
 git clone https://github.com/ycaballero12315/scrapping-requests-amazon.git
 ```
 ```bash
-uv install playwright beautifulsoup4 requests
+uv install playwright beautifulsoup4 requests # solo pruebo
 uv install asyncio  # para la versión asíncrona de Playwright, debes instalarlo porque Playwright es asincrono
