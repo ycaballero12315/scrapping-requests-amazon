@@ -1,0 +1,218 @@
+{
+  "producto_1": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 8 núcleos",
+      "RAM: 16 GB",
+      "SSD: 256 GB"
+    ],
+    "price": "1.199,00 €"
+  },
+  "producto_2": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 8 núcleos",
+      "RAM: 16 GB",
+      "SSD: 256 GB"
+    ],
+    "price": "1.199,00 €"
+  },
+  "producto_3": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 8 núcleos",
+      "RAM: 16 GB",
+      "SSD: 256 GB"
+    ],
+    "price": "1.199,00 €"
+  },
+  "producto_4": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 8 núcleos",
+      "RAM: 16 GB",
+      "SSD: 256 GB"
+    ],
+    "price": "1.199,00 €"
+  },
+  "producto_5": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.449,00 €"
+  },
+  "producto_6": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.449,00 €"
+  },
+  "producto_7": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.449,00 €"
+  },
+  "producto_8": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.449,00 €"
+  },
+  "producto_9": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 24 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.699,00 €"
+  },
+  "producto_10": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 24 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.699,00 €"
+  },
+  "producto_11": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 24 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.699,00 €"
+  },
+  "producto_12": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 24 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.699,00 €"
+  },
+  "producto_13": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 256 GB"
+    ],
+    "price": "1.499,00 €"
+  },
+  "producto_14": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 256 GB"
+    ],
+    "price": "1.499,00 €"
+  },
+  "producto_15": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 256 GB"
+    ],
+    "price": "1.499,00 €"
+  },
+  "producto_16": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 256 GB"
+    ],
+    "price": "1.499,00 €"
+  },
+  "producto_17": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.749,00 €"
+  },
+  "producto_18": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.749,00 €"
+  },
+  "producto_19": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.749,00 €"
+  },
+  "producto_20": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 16 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.749,00 €"
+  },
+  "producto_21": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 24 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.999,00 €"
+  },
+  "producto_22": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 24 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.999,00 €"
+  },
+  "producto_23": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 24 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.999,00 €"
+  },
+  "producto_24": {
+    "especificaciones": [
+      "CPU: 10 núcleos",
+      "GPU: 10 núcleos",
+      "RAM: 24 GB",
+      "SSD: 512 GB"
+    ],
+    "price": "1.999,00 €"
+  }
+}
